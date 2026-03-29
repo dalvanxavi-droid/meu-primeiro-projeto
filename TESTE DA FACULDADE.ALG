@@ -1,4 +1,4 @@
-// Algoritmo para calcular o preço final com taxa fixa
+// Algoritmo para calcular o preÃ§o final com taxa fixa
 
 ALGORITMO "Preco_Final"
 
@@ -10,14 +10,14 @@ INICIO
    taxa <- 10
 
    // Entrada de dados
-   ESCREVA("Digite o preço base: ")
+   ESCREVA("Digite o preÃ§o base: ")
    LEIA(base)
 
-   // Processamento: soma do preço base com a taxa
+   // Processamento: soma do preÃ§o base com a taxa
    final <- base + taxa
 
-   // Saída
-   ESCREVA("O preço final é: ", final)
+   // SaÃ­da
+   ESCREVA("O preÃ§o final Ã©: ", final)
 
 
 FIMALGORITMO
